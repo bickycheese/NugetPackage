@@ -7,12 +7,12 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("My.Package")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("My Package")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Me")]
 [assembly: AssemblyProduct("My.Package")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("Me")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("en")]
 
